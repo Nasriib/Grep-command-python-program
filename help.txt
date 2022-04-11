@@ -2,3 +2,4 @@ Usage is similar to the grep command
 
 proper execution:
 
+python myprog.py file1.txt file2.txt file3.txt Word
