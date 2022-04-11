@@ -1,0 +1,4 @@
+Usage is similar to the grep command
+
+proper execution:
+
